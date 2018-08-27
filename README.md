@@ -69,11 +69,16 @@ Insbesondere bei den M2 Schrauben (4 Stück für das OLED Display) und
 Muttern (8 Stück) kann sich eine eigene Internetrecherche lohnen, da der
 angegebene Lieferant nur große Verpackungsgrößen im Angebot hat.
 
+**NEU**
 
+Seit kurzem gibt es die gesamte Hardware auch als fertigen Bausatz:
+
+[Aalener Lerncomputer Bausatz - 3D Mechatronics](http://www.3d-mechatronics.de/de/aalec-lerncomputer-bausatz_947.html)
 
 ## Schaltplan und Bestückungsreihenfolge
 
-Den [Schaltplan](schaltplan.pdf) und [Bestückungsplan](bestueckung.pdf) liegtals PDF Datei im Repository vor.
+Den [Schaltplan](schaltplan.pdf) und [Bestückungsplan](bestueckung.pdf) liegt
+als PDF Datei im Repository vor.
 
 Bestückungsreihenfolge:
 
@@ -126,7 +131,10 @@ Schrauben durch die Löcher im Display schauen.
 
 Da das Glas des Displays nicht immer ganz gerade auf dessen Trägerplatine
 geklebt ist kann es sein, dass sich die eine oder andere Mutter, wenn Sie die
-Displayplatine an den Schrauben befestigen wollen, nicht drehen lässt. In diesemFall lassen Sie die Mutter für diese Schraube einfach weg. In der Regel sindmindestens zwei Schrauben weit genug vom Glas entfernt, so dass sich die Mutternaufschrauben lassen, ohne das das Glas beschädigt wird.    
+Displayplatine an den Schrauben befestigen wollen, nicht drehen lässt. In diesem
+Fall lassen Sie die Mutter für diese Schraube einfach weg. In der Regel sind
+mindestens zwei Schrauben weit genug vom Glas entfernt, so dass sich die Muttern
+aufschrauben lassen, ohne das das Glas beschädigt wird.    
 
 ## Ansichten der bestückten Platine
 
